@@ -49,7 +49,7 @@
     <Channel>
       <Name>P_SteadyShaftPowerLimit</Name>
       <DataType>float</DataType>
-      <InitialValue>2958483.5</InitialValue>
+      <InitialValue>2717193.5</InitialValue>
     </Channel>
     <Channel>
       <Name>P_MinimumFinePitch</Name>
