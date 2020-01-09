@@ -64,7 +64,7 @@
     <Channel>
       <Name>P_SteadyShaftPowerLimit</Name>
       <DataType>float</DataType>
-      <InitialValue>2760553.8</InitialValue>
+      <InitialValue>NaN</InitialValue>
     </Channel>
     <Channel>
       <Name>P_MinimumFinePitch</Name>
@@ -534,7 +534,7 @@
     <Channel>
       <Name>P_MaximumGeneratorTorque</Name>
       <DataType>float</DataType>
-      <InitialValue>2457400</InitialValue>
+      <InitialValue>NaN</InitialValue>
     </Channel>
     <Channel>
       <Name>P_PitchActuatorType</Name>
@@ -589,7 +589,7 @@
     <Channel>
       <Name>P_OptimalModeGain</Name>
       <DataType>float</DataType>
-      <InitialValue>1.27E+06</InitialValue>
+      <InitialValue>930026</InitialValue>
     </Channel>
     <Channel>
       <Name>P_IndividualPitchCorrectionFactor</Name>
