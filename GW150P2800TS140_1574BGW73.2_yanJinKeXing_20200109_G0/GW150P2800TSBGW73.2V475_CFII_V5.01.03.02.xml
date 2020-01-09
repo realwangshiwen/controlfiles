@@ -49,7 +49,7 @@
     <Channel>
       <Name>P_SteadyShaftPowerLimit</Name>
       <DataType>float</DataType>
-      <InitialValue>3231100</InitialValue>
+      <InitialValue>3231079.5</InitialValue>
     </Channel>
     <Channel>
       <Name>P_MinimumFinePitch</Name>
@@ -564,7 +564,7 @@
     <Channel>
       <Name>P_OptimalModeGain</Name>
       <DataType>float</DataType>
-      <InitialValue>1.815E+06</InitialValue>
+      <InitialValue>1787000</InitialValue>
     </Channel>
     <Channel>
       <Name>P_IndividualPitchCorrectionFactor</Name>
@@ -1414,22 +1414,22 @@
     <Channel>
       <Name>P_TowerExcLowSpeed</Name>
       <DataType>float</DataType>
-      <InitialValue>0.9057</InitialValue>
+      <InitialValue>0.93464</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcHighSpeed</Name>
       <DataType>float</DataType>
-      <InitialValue>1.042</InitialValue>
+      <InitialValue>1.03936</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcLowSpeedMaxTorque</Name>
       <DataType>float</DataType>
-      <InitialValue>1561623</InitialValue>
+      <InitialValue>1639090</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcHighSpeedMinTorque</Name>
       <DataType>float</DataType>
-      <InitialValue>1098765</InitialValue>
+      <InitialValue>126338</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcSpeedRate</Name>
@@ -1601,9 +1601,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">0.974</Value>
+        <Value Name="NumeratorFrequency">0.987</Value>
         <Value Name="NumeratorDampingRatio">0.01</Value>
-        <Value Name="DenominatorFrequency">0.974</Value>
+        <Value Name="DenominatorFrequency">0.987</Value>
         <Value Name="DenominatorDampingRatio">0.3</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
@@ -1710,9 +1710,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">0.974</Value>
+        <Value Name="NumeratorFrequency">0.987</Value>
         <Value Name="NumeratorDampingRatio">0.01</Value>
-        <Value Name="DenominatorFrequency">0.974</Value>
+        <Value Name="DenominatorFrequency">0.987</Value>
         <Value Name="DenominatorDampingRatio">0.3</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
@@ -1819,9 +1819,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">0.974</Value>
+        <Value Name="NumeratorFrequency">0.987</Value>
         <Value Name="NumeratorDampingRatio">0.01</Value>
-        <Value Name="DenominatorFrequency">0.974</Value>
+        <Value Name="DenominatorFrequency">0.987</Value>
         <Value Name="DenominatorDampingRatio">0.3</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
@@ -2479,7 +2479,7 @@
       </Row>
       <Row>
         <Value Name="_0">-0.01745</Value>
-        <Value Name="_1">0.0087</Value>
+        <Value Name="_1">0.0349</Value>
       </Row>
     </Table>
     <Table>
@@ -2498,22 +2498,22 @@
     </Table>
     <Table>
       <Name>T_DynamicFinePitch</Name>
-      <Enabled>0</Enabled>
+      <Enabled>1</Enabled>
       <RowCount>2</RowCount>
       <Length>5</Length>
       <Row>
-        <Value Name="_0">0.0175</Value>
-        <Value Name="_1">0.0873</Value>
-        <Value Name="_2">0.1396</Value>
+        <Value Name="_0">-0.01745</Value>
+        <Value Name="_1">0.0175</Value>
+        <Value Name="_2">0.0873</Value>
         <Value Name="_3">0.1745</Value>
         <Value Name="_4">0.3491</Value>
       </Row>
       <Row>
-        <Value Name="_0">0.0087</Value>
-        <Value Name="_1">0.0349</Value>
-        <Value Name="_2">0.0698</Value>
-        <Value Name="_3">0.0873</Value>
-        <Value Name="_4">0.1047</Value>
+        <Value Name="_0">-0.01745</Value>
+        <Value Name="_1">-0.01745</Value>
+        <Value Name="_2">0.0567</Value>
+        <Value Name="_3">0.0907</Value>
+        <Value Name="_4">0.2268</Value>
       </Row>
     </Table>
     <Table>
@@ -2800,7 +2800,7 @@
     </Table>
     <Table>
       <Name>T_HighWindPowerLimitFactorSchedule</Name>
-      <Enabled>1</Enabled>
+      <Enabled>0</Enabled>
       <RowCount>2</RowCount>
       <Length>4</Length>
       <Row>
