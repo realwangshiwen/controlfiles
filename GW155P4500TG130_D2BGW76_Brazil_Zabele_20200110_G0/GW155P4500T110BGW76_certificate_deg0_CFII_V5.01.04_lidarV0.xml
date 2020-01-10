@@ -64,7 +64,7 @@
     <Channel>
       <Name>P_SteadyShaftPowerLimit</Name>
       <DataType>float</DataType>
-      <InitialValue>5.06E+06</InitialValue>
+      <InitialValue>5057563.2</InitialValue>
     </Channel>
     <Channel>
       <Name>P_MinimumFinePitch</Name>
@@ -299,7 +299,7 @@
     <Channel>
       <Name>P_MaxGeneratorSpeedForSwTrip</Name>
       <DataType>float</DataType>
-      <InitialValue>1.15</InitialValue>
+      <InitialValue>1.1441</InitialValue>
     </Channel>
     <Channel>
       <Name>P_SustainedSwOverspeedMaxDuration</Name>
@@ -319,7 +319,7 @@
     <Channel>
       <Name>P_PitchSanityGeneratorSpeedLevel</Name>
       <DataType>float</DataType>
-      <InitialValue>0.9948</InitialValue>
+      <InitialValue>0.97</InitialValue>
     </Channel>
     <Channel>
       <Name>P_PitchSanityDynamicActive</Name>
@@ -399,7 +399,7 @@
     <Channel>
       <Name>P_LowPitchAngleOverspeedSpeedLevel</Name>
       <DataType>float</DataType>
-      <InitialValue>1.3294</InitialValue>
+      <InitialValue>1.09432</InitialValue>
     </Channel>
     <Channel>
       <Name>P_LowPitchAngleOverspeedPitchLevel</Name>
@@ -524,7 +524,7 @@
     <Channel>
       <Name>P_MaximumGeneratorTorque</Name>
       <DataType>float</DataType>
-      <InitialValue>5594600</InitialValue>
+      <InitialValue>5592400</InitialValue>
     </Channel>
     <Channel>
       <Name>P_PitchActuatorType</Name>
@@ -579,7 +579,7 @@
     <Channel>
       <Name>P_OptimalModeGain</Name>
       <DataType>float</DataType>
-      <InitialValue>3057000</InitialValue>
+      <InitialValue>2876000</InitialValue>
     </Channel>
     <Channel>
       <Name>P_IndividualPitchCorrectionFactor</Name>
@@ -1706,9 +1706,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">1.307</Value>
+        <Value Name="NumeratorFrequency">1.168</Value>
         <Value Name="NumeratorDampingRatio">0.04</Value>
-        <Value Name="DenominatorFrequency">1.307</Value>
+        <Value Name="DenominatorFrequency">1.168</Value>
         <Value Name="DenominatorDampingRatio">0.2</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
@@ -1867,9 +1867,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">1.307</Value>
+        <Value Name="NumeratorFrequency">1.168</Value>
         <Value Name="NumeratorDampingRatio">0.05</Value>
-        <Value Name="DenominatorFrequency">1.307</Value>
+        <Value Name="DenominatorFrequency">1.168</Value>
         <Value Name="DenominatorDampingRatio">0.25</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
@@ -1976,9 +1976,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">1.307</Value>
+        <Value Name="NumeratorFrequency">1.168</Value>
         <Value Name="NumeratorDampingRatio">0.05</Value>
-        <Value Name="DenominatorFrequency">1.307</Value>
+        <Value Name="DenominatorFrequency">1.168</Value>
         <Value Name="DenominatorDampingRatio">0.25</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
