@@ -49,12 +49,12 @@
     <Channel>
       <Name>P_SteadyShaftPowerLimit</Name>
       <DataType>float</DataType>
-      <InitialValue>2595500</InitialValue>
+      <InitialValue>2595521.5</InitialValue>
     </Channel>
     <Channel>
       <Name>P_MinimumFinePitch</Name>
       <DataType>float</DataType>
-      <InitialValue>0</InitialValue>
+      <InitialValue>0.008727</InitialValue>
     </Channel>
     <Channel>
       <Name>P_PositiveFeatherAngle</Name>
@@ -539,7 +539,7 @@
     <Channel>
       <Name>P_OptimalModeGain</Name>
       <DataType>float</DataType>
-      <InitialValue>806477</InitialValue>
+      <InitialValue>1133000</InitialValue>
     </Channel>
     <Channel>
       <Name>P_IndividualPitchCorrectionFactor</Name>
@@ -914,7 +914,7 @@
     <Channel>
       <Name>P_NacelleAccFAEnabled</Name>
       <DataType>bool</DataType>
-      <InitialValue>false</InitialValue>
+      <InitialValue>true</InitialValue>
     </Channel>
     <Channel>
       <Name>P_NacelleAccMaxYawError</Name>
@@ -1324,22 +1324,22 @@
     <Channel>
       <Name>P_TowerExcLowSpeed</Name>
       <DataType>float</DataType>
-      <InitialValue>0.8468</InitialValue>
+      <InitialValue>0.95295</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcHighSpeed</Name>
       <DataType>float</DataType>
-      <InitialValue>0.9941</InitialValue>
+      <InitialValue>1.05767</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcLowSpeedMaxTorque</Name>
       <DataType>float</DataType>
-      <InitialValue>635530</InitialValue>
+      <InitialValue>1080337</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcHighSpeedMinTorque</Name>
       <DataType>float</DataType>
-      <InitialValue>485073</InitialValue>
+      <InitialValue>83432</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcSpeedRate</Name>
@@ -1476,9 +1476,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">0.92</Value>
+        <Value Name="NumeratorFrequency">1</Value>
         <Value Name="NumeratorDampingRatio">0.1</Value>
-        <Value Name="DenominatorFrequency">0.92</Value>
+        <Value Name="DenominatorFrequency">1</Value>
         <Value Name="DenominatorDampingRatio">0.3</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
@@ -1637,9 +1637,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">0.92</Value>
+        <Value Name="NumeratorFrequency">1</Value>
         <Value Name="NumeratorDampingRatio">0.1</Value>
-        <Value Name="DenominatorFrequency">0.92</Value>
+        <Value Name="DenominatorFrequency">1</Value>
         <Value Name="DenominatorDampingRatio">0.3</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
@@ -1746,9 +1746,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">0.92</Value>
+        <Value Name="NumeratorFrequency">1</Value>
         <Value Name="NumeratorDampingRatio">0.1</Value>
-        <Value Name="DenominatorFrequency">0.92</Value>
+        <Value Name="DenominatorFrequency">1</Value>
         <Value Name="DenominatorDampingRatio">0.3</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
