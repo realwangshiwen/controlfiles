@@ -589,7 +589,7 @@
     <Channel>
       <Name>P_OptimalModeGain</Name>
       <DataType>float</DataType>
-      <InitialValue>1.27E+06</InitialValue>
+      <InitialValue>1397000</InitialValue>
     </Channel>
     <Channel>
       <Name>P_IndividualPitchCorrectionFactor</Name>
@@ -1544,22 +1544,22 @@
     <Channel>
       <Name>P_TowerExcLowSpeed</Name>
       <DataType>float</DataType>
-      <InitialValue>0.832</InitialValue>
+      <InitialValue>0.81134</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcHighSpeed</Name>
       <DataType>float</DataType>
-      <InitialValue>0.977</InitialValue>
+      <InitialValue>0.91606</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcLowSpeedMaxTorque</Name>
       <DataType>float</DataType>
-      <InitialValue>968459</InitialValue>
+      <InitialValue>965587</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcHighSpeedMinTorque</Name>
       <DataType>float</DataType>
-      <InitialValue>739183</InitialValue>
+      <InitialValue>73303</InitialValue>
     </Channel>
     <Channel>
       <Name>P_TowerExcSpeedRate</Name>
@@ -1856,9 +1856,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">0.905</Value>
+        <Value Name="NumeratorFrequency">0.8637</Value>
         <Value Name="NumeratorDampingRatio">0.01</Value>
-        <Value Name="DenominatorFrequency">0.905</Value>
+        <Value Name="DenominatorFrequency">0.8637</Value>
         <Value Name="DenominatorDampingRatio">0.3</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
@@ -1965,9 +1965,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">0.905</Value>
+        <Value Name="NumeratorFrequency">0.8637</Value>
         <Value Name="NumeratorDampingRatio">0.01</Value>
-        <Value Name="DenominatorFrequency">0.905</Value>
+        <Value Name="DenominatorFrequency">0.8637</Value>
         <Value Name="DenominatorDampingRatio">0.3</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
@@ -2074,9 +2074,9 @@
         <Value Name="DenominatorType">SecondOrder</Value>
         <Value Name="NumeratorTC">0</Value>
         <Value Name="DenominatorTC">0</Value>
-        <Value Name="NumeratorFrequency">0.905</Value>
+        <Value Name="NumeratorFrequency">0.8637</Value>
         <Value Name="NumeratorDampingRatio">0.01</Value>
-        <Value Name="DenominatorFrequency">0.905</Value>
+        <Value Name="DenominatorFrequency">0.8637</Value>
         <Value Name="DenominatorDampingRatio">0.3</Value>
         <Value Name="W0">0</Value>
         <Value Name="PrewarpingWc">0</Value>
