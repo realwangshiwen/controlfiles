@@ -3,3 +3,5 @@
     ├─GW131P2300TG90_283BLZ64_NingxiaZhongning_20200204_G0_CFII_V3_GFC.dll
     └─GW131P2300TG90_283BLZ64_NingxiaZhongning_20200204_G0_CFII_V3_GFC1.xml
 
+
+调参信息，D0，578塔架，初版整定，未开启GFC
