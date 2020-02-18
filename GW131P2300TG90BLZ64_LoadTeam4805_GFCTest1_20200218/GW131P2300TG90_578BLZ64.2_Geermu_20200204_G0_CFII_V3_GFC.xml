@@ -1199,7 +1199,7 @@
     <Channel>
       <Name>P_GridFrequencyControlEnable</Name>
       <DataType>bool</DataType>
-      <InitialValue>false</InitialValue>
+      <InitialValue>true</InitialValue>
     </Channel>
     <Channel>
       <Name>P_GridFrequencyControlPowerRateLimit</Name>
