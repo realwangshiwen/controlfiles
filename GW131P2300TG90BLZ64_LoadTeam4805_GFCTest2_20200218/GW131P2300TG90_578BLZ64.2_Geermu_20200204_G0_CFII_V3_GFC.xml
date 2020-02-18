@@ -2753,26 +2753,26 @@
       <RowCount>2</RowCount>
       <Length>10</Length>
       <Row>
-        <Value Name="_0">10</Value>
-        <Value Name="_1">70</Value>
-        <Value Name="_2">130</Value>
-        <Value Name="_3">190</Value>
-        <Value Name="_4">250</Value>
-        <Value Name="_5">310</Value>
-        <Value Name="_6">370</Value>
-        <Value Name="_7">430</Value>
-        <Value Name="_8">490</Value>
-        <Value Name="_9">550</Value>
+        <Value Name="_0">0.1</Value>
+        <Value Name="_1">-0.1</Value>
+        <Value Name="_2">0.1</Value>
+        <Value Name="_3">-0.1</Value>
+        <Value Name="_4">0.2</Value>
+        <Value Name="_5">-0.2</Value>
+        <Value Name="_6">0.5</Value>
+        <Value Name="_7">-0.2</Value>
+        <Value Name="_8">0.7</Value>
+        <Value Name="_9">-0.5</Value>
       </Row>
       <Row>
-        <Value Name="_0">50</Value>
-        <Value Name="_1">50</Value>
+        <Value Name="_0">25</Value>
+        <Value Name="_1">25</Value>
         <Value Name="_2">100</Value>
-        <Value Name="_3">50</Value>
-        <Value Name="_4">50</Value>
-        <Value Name="_5">50</Value>
+        <Value Name="_3">25</Value>
+        <Value Name="_4">25</Value>
+        <Value Name="_5">25</Value>
         <Value Name="_6">50</Value>
-        <Value Name="_7">50</Value>
+        <Value Name="_7">25</Value>
         <Value Name="_8">100</Value>
         <Value Name="_9">50</Value>
       </Row>
@@ -2783,24 +2783,24 @@
       <RowCount>2</RowCount>
       <Length>10</Length>
       <Row>
-        <Value Name="_0">10</Value>
-        <Value Name="_1">70</Value>
-        <Value Name="_2">130</Value>
-        <Value Name="_3">190</Value>
-        <Value Name="_4">250</Value>
-        <Value Name="_5">310</Value>
-        <Value Name="_6">370</Value>
-        <Value Name="_7">430</Value>
-        <Value Name="_8">490</Value>
-        <Value Name="_9">550</Value>
+        <Value Name="_0">0.1</Value>
+        <Value Name="_1">-0.1</Value>
+        <Value Name="_2">0.2</Value>
+        <Value Name="_3">-0.1</Value>
+        <Value Name="_4">0.2</Value>
+        <Value Name="_5">-0.2</Value>
+        <Value Name="_6">0.5</Value>
+        <Value Name="_7">-0.5</Value>
+        <Value Name="_8">0.7</Value>
+        <Value Name="_9">-0.7</Value>
       </Row>
       <Row>
-        <Value Name="_0">50</Value>
-        <Value Name="_1">50</Value>
-        <Value Name="_2">50</Value>
-        <Value Name="_3">50</Value>
-        <Value Name="_4">50</Value>
-        <Value Name="_5">50</Value>
+        <Value Name="_0">25</Value>
+        <Value Name="_1">25</Value>
+        <Value Name="_2">25</Value>
+        <Value Name="_3">25</Value>
+        <Value Name="_4">25</Value>
+        <Value Name="_5">25</Value>
         <Value Name="_6">50</Value>
         <Value Name="_7">50</Value>
         <Value Name="_8">100</Value>
@@ -2813,24 +2813,24 @@
       <RowCount>2</RowCount>
       <Length>10</Length>
       <Row>
-        <Value Name="_0">10</Value>
-        <Value Name="_1">70</Value>
-        <Value Name="_2">130</Value>
-        <Value Name="_3">190</Value>
-        <Value Name="_4">250</Value>
-        <Value Name="_5">310</Value>
-        <Value Name="_6">370</Value>
-        <Value Name="_7">430</Value>
-        <Value Name="_8">490</Value>
-        <Value Name="_9">550</Value>
+        <Value Name="_0">0.1</Value>
+        <Value Name="_1">-0.1</Value>
+        <Value Name="_2">0.1</Value>
+        <Value Name="_3">-0.2</Value>
+        <Value Name="_4">0.2</Value>
+        <Value Name="_5">-0.2</Value>
+        <Value Name="_6">0.5</Value>
+        <Value Name="_7">-0.5</Value>
+        <Value Name="_8">0.7</Value>
+        <Value Name="_9">-0.7</Value>
       </Row>
       <Row>
-        <Value Name="_0">50</Value>
-        <Value Name="_1">50</Value>
-        <Value Name="_2">50</Value>
-        <Value Name="_3">50</Value>
-        <Value Name="_4">50</Value>
-        <Value Name="_5">50</Value>
+        <Value Name="_0">25</Value>
+        <Value Name="_1">25</Value>
+        <Value Name="_2">25</Value>
+        <Value Name="_3">25</Value>
+        <Value Name="_4">25</Value>
+        <Value Name="_5">25</Value>
         <Value Name="_6">50</Value>
         <Value Name="_7">50</Value>
         <Value Name="_8">100</Value>
@@ -2843,25 +2843,25 @@
       <RowCount>2</RowCount>
       <Length>10</Length>
       <Row>
-        <Value Name="_0">10</Value>
-        <Value Name="_1">70</Value>
-        <Value Name="_2">130</Value>
-        <Value Name="_3">190</Value>
-        <Value Name="_4">250</Value>
-        <Value Name="_5">310</Value>
-        <Value Name="_6">370</Value>
-        <Value Name="_7">430</Value>
-        <Value Name="_8">490</Value>
-        <Value Name="_9">550</Value>
+        <Value Name="_0">0.1</Value>
+        <Value Name="_1">-0.1</Value>
+        <Value Name="_2">0.1</Value>
+        <Value Name="_3">-0.1</Value>
+        <Value Name="_4">0.2</Value>
+        <Value Name="_5">-0.2</Value>
+        <Value Name="_6">0.2</Value>
+        <Value Name="_7">-0.5</Value>
+        <Value Name="_8">0.5</Value>
+        <Value Name="_9">-0.7</Value>
       </Row>
       <Row>
-        <Value Name="_0">50</Value>
-        <Value Name="_1">50</Value>
-        <Value Name="_2">50</Value>
+        <Value Name="_0">25</Value>
+        <Value Name="_1">25</Value>
+        <Value Name="_2">25</Value>
         <Value Name="_3">100</Value>
-        <Value Name="_4">50</Value>
-        <Value Name="_5">50</Value>
-        <Value Name="_6">50</Value>
+        <Value Name="_4">25</Value>
+        <Value Name="_5">25</Value>
+        <Value Name="_6">25</Value>
         <Value Name="_7">50</Value>
         <Value Name="_8">50</Value>
         <Value Name="_9">100</Value>
