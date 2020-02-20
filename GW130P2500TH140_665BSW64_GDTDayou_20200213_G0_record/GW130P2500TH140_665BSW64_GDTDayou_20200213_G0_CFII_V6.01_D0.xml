@@ -34,7 +34,7 @@
     <Channel>
       <Name>P_FaultOverspeedStrategy</Name>
       <DataType>bool</DataType>
-      <InitialValue>true</InitialValue>
+      <InitialValue>false</InitialValue>
     </Channel>
     <Channel>
       <Name>P_FaultOverspeedTorquefactor</Name>
